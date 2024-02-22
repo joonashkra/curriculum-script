@@ -11,4 +11,4 @@ npm install
 npm start
 
 ## Creating an Executable (preferable)
-Create an executable file using a tool like pkg or nexe. Follow the steps outlined in this guide: [Build and Compile Node.js to .exe File.](https://thriveread.com/build-and-compile-nodejs-to-exe-file/)https://thriveread.com/build-and-compile-nodejs-to-exe-file/
+Create an executable file using a tool like pkg or nexe. Follow the steps outlined in this guide: [Build and Compile Node.js to .exe File.](https://thriveread.com/build-and-compile-nodejs-to-exe-file/)
