@@ -1,6 +1,6 @@
-# Curriculum Script Automation
+# Simple Curriculum Script Automation
 
-Utilizes Puppeteer to automate the process of accessing and interacting with a curriculum website.
+Uses Puppeteer to automate the process of accessing and interacting with a curriculum website.
 
 ## Usage
 Replace the "executablePath" variable in your script with the actual path to your Google Chrome executable.
